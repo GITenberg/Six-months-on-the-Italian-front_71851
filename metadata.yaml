@@ -1,11 +1,16 @@
 _repo: Six-months-on-the-Italian-front_71851
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71851-h/images/cover.jpg
 creator:
   author:
     agent_name: Price, Julius Mendes
     gutenberg_agent_id: '56425'
     url: http://www.gutenberg.org/2009/agents/56425
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71851#Six-months-on-the-Italian-front
 gutenberg_issued: '2023-10-11'
 identifiers:
   gutenberg: '71851'
